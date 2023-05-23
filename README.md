@@ -1,2 +1,2 @@
-# caldep
+# CalDep
 The Traveling Tournament Problem
